@@ -1,4 +1,4 @@
-package com.example.codingteststudy.codingtest.six
+package com.example.codingteststudy.codingtest.six0
 
 //두 수의 합
 class Solution {
