@@ -1,6 +1,6 @@
 package com.example.codingteststudy.codingtest.eight
 
-//각도기
+//8. 각도기
 class Solution {
     fun solution(angle: Int): Int {
         if(0<angle && angle <90 ){

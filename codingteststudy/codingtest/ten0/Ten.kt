@@ -1,6 +1,6 @@
 package com.example.codingteststudy.codingtest.ten0
 
-//배열의 평균값
+//10. 배열의 평균값
 class Solution {
     fun solution(numbers: IntArray): Double {
 

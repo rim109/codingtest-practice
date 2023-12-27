@@ -1,6 +1,6 @@
 package com.example.codingteststudy.codingtest.nine0
 
-//짝수의 합
+//9. 짝수의 합
 class Solution {
     fun solution(n: Int): Int {
         var answer: Int = 0

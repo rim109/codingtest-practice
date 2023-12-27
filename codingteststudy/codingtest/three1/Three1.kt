@@ -1,5 +1,6 @@
 package com.example.codingteststudy.codingtest.three1
 
+// 13. 자릿수 더하기
 class Solution {
     fun solution(n: Int): Int {
         var answer = 0
