@@ -1,3 +1,3 @@
 class Solution {
-    fun solution(myString: String): String = myString.toLowerCase().replace("a","A")
+    fun solution(myString: String): String = myString.lowercase().replace("a","A")
 }
