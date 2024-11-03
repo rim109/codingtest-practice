@@ -1,10 +1,10 @@
 # [level 0] 7의 개수 - 120912 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120912) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=java) 
 
 ### 성능 요약
 
-메모리: 62.5 MB, 시간: 0.03 ms
+메모리: 83.7 MB, 시간: 2.89 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 28일 00:08:51
+2024년 11월 03일 23:02:11
 
 ### 문제 설명
 
