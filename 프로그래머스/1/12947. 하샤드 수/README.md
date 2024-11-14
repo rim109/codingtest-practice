@@ -1,10 +1,10 @@
 # [level 1] 하샤드 수 - 12947 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12947) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java) 
 
 ### 성능 요약
 
-메모리: 59.9 MB, 시간: 8.05 ms
+메모리: 78.1 MB, 시간: 0.14 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 21일 14:08:56
+2024년 11월 14일 11:30:28
 
 ### 문제 설명
 
