@@ -1,10 +1,10 @@
 # [level 0] 문자열 정수의 합 - 181849 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181849?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181849) 
 
 ### 성능 요약
 
-메모리: 61.6 MB, 시간: 0.85 ms
+메모리: 87.4 MB, 시간: 0.11 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 16일 01:44:59
+2024년 12월 27일 22:37:18
 
 ### 문제 설명
 
