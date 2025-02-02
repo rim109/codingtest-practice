@@ -1,13 +1,13 @@
 class Solution {
     fun solution(my_string: String): Int {
-        val stringArr = my_string.split(" ".toRegex()).toTypedArray()
-        var answer = stringArr[0].toInt()
+        val s = my_string.split(" ".toRegex()).toTypedArray()
+        var answer = s[0].toInt()
         var i = 1
-        while (i < stringArr.size) {
-            if (stringArr[i] == "+") {
-                answer += stringArr[i + 1].toInt()
+        while (i < s.size) {
+            if (s[i] == "+") {
+                answer += s[i + 1].toInt()
             } else {
-                answer -= stringArr[i + 1].toInt()
+                answer -= s[i + 1].toInt()
             }
             i += 2
         }
