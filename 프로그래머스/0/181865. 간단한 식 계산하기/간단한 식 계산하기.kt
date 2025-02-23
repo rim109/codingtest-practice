@@ -7,6 +7,5 @@ class Solution {
             answer[1] == "*" -> answer[0].toInt() * answer[2].toInt()
             else -> -1
         }
-
     }
 }
