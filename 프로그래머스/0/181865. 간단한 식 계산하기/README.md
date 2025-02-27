@@ -1,10 +1,10 @@
 # [level 0] 간단한 식 계산하기 - 181865 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181865?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181865) 
 
 ### 성능 요약
 
-메모리: 63.6 MB, 시간: 13.82 ms
+메모리: 91.8 MB, 시간: 0.13 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 23일 15:56:48
+2025년 02월 28일 06:05:34
 
 ### 문제 설명
 
