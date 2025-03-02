@@ -1,10 +1,10 @@
 # [level 0] 배열 비교하기 - 181856 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856) 
 
 ### 성능 요약
 
-메모리: 62 MB, 시간: 0.01 ms
+메모리: 75.3 MB, 시간: 2.75 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 29일 01:39:33
+2025년 03월 03일 02:01:37
 
 ### 문제 설명
 
