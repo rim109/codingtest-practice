@@ -1,6 +1,6 @@
 # [level 1] 조건에 맞는 회원수 구하기 - 131535 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131535) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131535?language=oracle) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 06월 27일 16:02:13
+2025년 03월 11일 19:07:34
 
 ### 문제 설명
 
