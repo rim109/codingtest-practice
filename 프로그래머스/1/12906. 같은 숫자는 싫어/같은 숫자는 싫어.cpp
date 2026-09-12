@@ -16,4 +16,8 @@ vector<int> solution(vector<int> arr)
     cout << "Hello Cpp" << endl;
 
     return answer;
+    
+    // 참고
+    // arr.erase(unique(arr.begin(), arr.end()), arr.end()) 로 하면 간단하게 해결할 수 있음
+        
 }
