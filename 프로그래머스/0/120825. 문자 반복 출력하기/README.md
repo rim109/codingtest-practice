@@ -1,10 +1,10 @@
 # [level 0] 문자 반복 출력하기 - 120825 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120825) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120825?language=cpp) 
 
 ### 성능 요약
 
-메모리: 62 MB, 시간: 12.26 ms
+메모리: 4.7 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 14일 14:13:25
+2026년 09월 13일 22:06:59
 
 ### 문제 설명
 
