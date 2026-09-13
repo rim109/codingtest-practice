@@ -8,7 +8,7 @@ vector<int> solution(vector<int> num_list) {
     int a = 0;
     int b = 0;
     
-    for (int i = 0; i < num_list.size(); i++){
+    for (int i = 0; i < num_list.size() ; i++){
         if(num_list[i] % 2 == 0){
             a++;
         } else {
