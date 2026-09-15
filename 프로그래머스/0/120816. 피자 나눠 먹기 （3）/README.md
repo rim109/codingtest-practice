@@ -1,10 +1,10 @@
 # [level 0] 피자 나눠 먹기 (3) - 120816 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120816) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=cpp) 
 
 ### 성능 요약
 
-메모리: 77.9 MB, 시간: 0.03 ms
+메모리: 4.82 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 25일 19:08:15
+2026년 09월 15일 21:57:54
 
 ### 문제 설명
 
